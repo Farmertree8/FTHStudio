@@ -1,10 +1,13 @@
 ---
-redirect: ./首頁
-title: 校際交流群編年史
+title: 農夫樹個人聯絡方式?!
 ---
-> 風簷展書讀，古道照顏色
-> ----文天祥《正氣歌》
-
-[[校際交流群正史]]
-[[校際交流群野史、雜史、趣聞]]
-[[人物傳記]]
+## Socials: 
+- Email: hanstwcq@gmail.com
+- FarmertreeHansen's
+- Farmertree Hansen's
+- IG: Farmertree8
+- Twitter: Farmertree18
+- Odysee: @FarmertreeHansen's
+- speedrun.com: Farmertree8
+- Discord: Farmertree8
+- Facebook: FarmertreeHansen's 
