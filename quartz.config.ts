@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "校際交流群編年史",
+    pageTitle: "農夫樹個人網頁兼數位花園",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "zh-TW",
-    baseUrl: "https://farmertree8.github.io/SWTW-history/首頁",
+    baseUrl: "https://farmertree8.github.io/FTHStudio",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
